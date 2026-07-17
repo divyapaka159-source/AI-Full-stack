@@ -1,0 +1,6 @@
+gradio 
+chromadb
+google.generativeai  genai
+uuid
+pypdf  PdfReader
+sentence_transformers
