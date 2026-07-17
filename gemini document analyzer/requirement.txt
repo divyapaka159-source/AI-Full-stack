@@ -1,0 +1,6 @@
+gradio 
+os
+google genai
+google.genai 
+gTTS
+tempfile
